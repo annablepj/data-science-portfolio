@@ -1,0 +1,3 @@
+ https://climate.nasa.gov/vital-signs/global-temperature/
+
+"This graph illustrates the change in global surface temperature relative to 1951-1980 average temperatures. Seventeen of the 18 warmest years in the 136-year record all have occurred since 2001, with the exception of 1998. The year 2016 ranks as the warmest on record. (Source: NASA/GISS). This research is broadly consistent with similar constructions prepared by the Climatic Research Unit and the National Oceanic and Atmospheric Administration."
