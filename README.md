@@ -12,7 +12,7 @@ Selected Projects from my Master's Degree Program at Indiana University 2016-201
   Use of SQL and NOSQL techniques to combine multiple databases for agile analytics.  MongoDB and Microservices are key technologies used. <br>
 * **Visualization of a Occupational Therapy Research Database.** &nbsp;&nbsp; [Report](https://github.com/annablepj/data-science-portfolio/blob/master/Info%20Visualization/Visualization%20of%20Research%20in%20Occupational%20Threapy%20Database-Group1-FinalPaper.pdf) &nbsp;&nbsp;&nbsp;&nbsp; [Tableau Dashboard](https://public.tableau.com/profile/peter.annable#!/vizhome/AOTAResearchDatabase/StudyExplorer) <br>
   Client project for the American Occupational Therapy Foundation (AOTF).  Visualization techniques are applied to provide insights on occupational research performed over the last 30 years.<br>
-* **Data Science Knowledge Base** &nbsp;&nbsp; [Website](http://dskb.soic.indiana.edu/) &nbsp;&nbsp;&nbsp;&nbsp;  [Code](https://github.com/annablepj/dskb) 
+* **Data Science Knowledge Base** &nbsp;&nbsp; [Website](http://dskb.soic.indiana.edu/) &nbsp;&nbsp;&nbsp;&nbsp;  [Code](https://github.com/annablepj/dskb) <br>
   Independant study project to build a knowledge capture and presentation structure for Indiana University.  A Ruby on Rails website was constructed using Project Blacklight as the core platform.  This project has been applied in subsequent Perspectives in Data Science Classes by the professor. <br>
   
 <h3>Other Topics Studied</h3>
