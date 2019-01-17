@@ -2,5 +2,5 @@
 
 Selected Projects from my Master's Degree Program at Indiana University 2016-2018.
 
-1. Effect of Climate Change on Lake Matinenda Ice-Out Dates.  [Report]("./Matinenda Ice-Out Analysis/Climate Change Effect on Ice Out Times.pdf")
+1. Effect of Climate Change on Lake Matinenda Ice-Out Dates.  [Report](https://github.com/annablepj/data-science-portfolio/blob/master/Matinenda%20Ice-Out%20Analysis/Climate%20Change%20Effect%20on%20Ice%20Out%20Times.pdf)
   
